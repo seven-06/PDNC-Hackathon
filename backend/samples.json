@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SAMPLE_ONCOLOGY",
+    "title": "Oncology / Cancer Genetics",
+    "category": "Oncology",
+    "text": "Patients with hereditary nonpolyposis colorectal cancer and breast cancer show frequent germline mutations. In our cohort, malignant melanoma and ovarian cancer were also detected with high penetrance."
+  },
+  {
+    "id": "SAMPLE_CARDIOLOGY",
+    "title": "Cardiology & Metabolic",
+    "category": "Cardiology",
+    "text": "Severe hypertension and type 2 diabetes mellitus significantly elevate the long-term risk of myocardial infarction, heart failure, and chronic renal failure in geriatric cohorts."
+  },
+  {
+    "id": "SAMPLE_NEUROLOGY",
+    "title": "Neurology & Neurogenetics",
+    "category": "Neurology",
+    "text": "Familial Alzheimer disease and Huntington disease involve progressive neurodegeneration. Ataxia-telangiectasia was diagnosed following acute episodes of cerebellar atrophy and ocular telangiectasia."
+  },
+  {
+    "id": "SAMPLE_INFECTIOUS",
+    "title": "Infectious & Respiratory",
+    "category": "Infectious",
+    "text": "Severe acute respiratory syndrome caused by COVID-19 frequently leads to bacterial pneumonia, sepsis, and high fever in immunocompromised patients with pre-existing asthma."
+  }
+]
